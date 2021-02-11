@@ -1,0 +1,62 @@
+body {
+    background: #000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+a {
+    color: #fff;
+    font-family: bakso sapi;
+    font-size: 30px;
+    text-align: center
+}
+
+p {
+    color: #fff;
+    font-family: bakso sapi;
+    font-size: 30px;
+    text-align: center
+}
+
+#option {
+    font-size: 50px;
+}
+
+
+
+#ending {
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#forestgreen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#first {
+    font-size: 15px;
+}
+
+#first1 {
+    font-size: 15px
+}
+
+#first1 {
+    color: #fff;
+    background: black;
+}
+
+#first1:hover {
+    color: #000;
+    background: #fff
+}
+

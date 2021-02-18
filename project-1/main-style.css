@@ -4,6 +4,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-family: bakso sapi;
+    text-align: center
 
 }
 
@@ -59,4 +61,58 @@ p {
     color: #000;
     background: #fff
 }
+#main{
+      color: #fff;
+    font-size: 60px
+}
+h2{
+    color: #fff;
+    font-size: 20px
+}
+#abbychen{
+    font-size: 18px
+}
+#scribbleimage {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+audio{
+    opacity: 0;
+} 
+#midst{
+    color: #fff;
+    font-size: 100px
+        
+}
 
+#midst:hover{
+    color: #000
+}
+#big{
+      text-align: center;
+    font-family: bakso sapi;
+    font-size: 100px;
+}
+#white{
+       color: #000;
+    text-align: center;
+        position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    font-size: 100px
+}
+#choices{
+       text-align: center;
+    font-family: bakso sapi;
+    font-size: 50px
+}
+#directions{
+     color: #fff;
+    text-align: center;
+    font-family:bakso sapi;
+    font-size: 17px
+}

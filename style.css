@@ -1,20 +1,122 @@
 body{
-    text-align: center;
-    font-family: space mono
+    background: #f3cfff;
+    text-align: center; 
 }
-h1{
-    font-size: 50px;
-    color: RED
-}
-h2{
-    font-size: 30px
-}
-a{
-    font-size: 15px;
-    color: black
+#name{
+    font-size: 90px;
+    font-family: Ribes;
+    color: #d761ff;
+    
 }
 
+#brief{
+    margin-top: -50px;
+    font-size: 20px;
+    font-family: Ribes;
+}
+
+#presentation{
+    margin-top: 80px;
+}
+
+#pres:hover{
+    color: #d761ff
+}
+
+#pres{
+   font-size: 200px;
+    margin-top: 200px;
+    font-family: Ribes;
+    color: #ebb0ff
+}
+
+#proj{
+    font-size: 200px;
+    margin-top: 200px;
+    font-family: Ribes;
+    color: #ebb0ff
+}
+
+#proj:hover{
+    color: #d761ff
+}
+
+
+#exer{
+    font-size: 200px;
+    margin-top: 200px;
+    font-family: Ribes;
+    color: #ebb0ff
+}
+
+#exer:hover{
+    color: #d761ff
+}
+
+#thou{
+    font-size: 200px;
+    margin-top: 200px;
+    font-family: Ribes;
+    color: #ebb0ff;
+}
+
+#thou:hover{
+    color: #d761ff
+}
+
+
+#thought{
+     margin-bottom: 100px;
+}
+
+#foot{
+    font-size: 15px;
+    font-family: Ribes; 
+}
+
+#one{
+   font-size: 60px;
+    font-family: Ribes;
+    color: #d761ff;  
+}
+
+#two{
+    font-size: 60px;
+    font-family: Ribes;
+    color: #d761ff;
+}
+
+#three{
+    font-size: 60px;
+    font-family: Ribes;
+    color: #d761ff; 
+}
+
+.projects{
+    top: 50%;
+    left: 50%;
+    margin-top: -8%;
+    margin-right: -50%;
+    transform: translate(-16%, 50%)
+}
+
+#link{
+    margin-top: -50px;
+    font-size: 20px;
+    font-family: Ribes;
+    color: #4e0866;
+}
+
+a{
+    font-size: 20px;
+    font-family: Ribes;
+    color: #4e0866; 
+}
+
+
 iframe{
+    margin-top: 40px;
+    margin-bottom: 40px;
     width:200px;
     height: 200px;   
 }
@@ -22,4 +124,19 @@ iframe{
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto; 
+}
+
+x{
+    
+   font-size: 60px;
+    font-family: Ribes;
+    color: #d761ff; 
+    text-align: left;
+}
+
+p{
+    font-size: 15px;
+    font-family: Ribes;
+    color: #000; 
+    text-align: left;
 }

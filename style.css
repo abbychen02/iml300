@@ -9,10 +9,11 @@ body{
     
 }
 
-#brief{
+#hello{
     margin-top: -50px;
     font-size: 20px;
     font-family: Ribes;
+    text-align: center;
 }
 
 #presentation{
